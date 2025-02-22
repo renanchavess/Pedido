@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renan\\source\\repos\\Pedido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A180C77E-651E-4940-8660-20787D5F180F}|Pedido\\GerenciadorPedidos.csproj|c:\\users\\renan\\source\\repos\\pedido\\pedido\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A180C77E-651E-4940-8660-20787D5F180F}|Pedido\\GerenciadorPedidos.csproj|solutionrelative:pedido\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D4678F-409C-49B4-9E19-FBEED76C464B}|GerenciadorPedidos.Application\\GerenciadorPedidos.Application.csproj|c:\\users\\renan\\source\\repos\\pedido\\gerenciadorpedidos.application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D4678F-409C-49B4-9E19-FBEED76C464B}|GerenciadorPedidos.Application\\GerenciadorPedidos.Application.csproj|solutionrelative:gerenciadorpedidos.application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D4678F-409C-49B4-9E19-FBEED76C464B}|GerenciadorPedidos.Application\\GerenciadorPedidos.Application.csproj|c:\\users\\renan\\source\\repos\\pedido\\gerenciadorpedidos.application\\services\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D4678F-409C-49B4-9E19-FBEED76C464B}|GerenciadorPedidos.Application\\GerenciadorPedidos.Application.csproj|solutionrelative:gerenciadorpedidos.application\\services\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B52C84-75D8-4D8D-B9B9-98892080BC74}|Pedido.Core\\GerenciadorPedidos.Core.csproj|c:\\users\\renan\\source\\repos\\pedido\\pedido.core\\repositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B52C84-75D8-4D8D-B9B9-98892080BC74}|Pedido.Core\\GerenciadorPedidos.Core.csproj|solutionrelative:pedido.core\\repositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B52C84-75D8-4D8D-B9B9-98892080BC74}|Pedido.Core\\GerenciadorPedidos.Core.csproj|c:\\users\\renan\\source\\repos\\pedido\\pedido.core\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B52C84-75D8-4D8D-B9B9-98892080BC74}|Pedido.Core\\GerenciadorPedidos.Core.csproj|solutionrelative:pedido.core\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60591EF6-D236-44A7-A70F-F69BFD045DFC}|GerenciadorPedidos.Infrastructure\\GerenciadorPedidos.Infrastructure.csproj|c:\\users\\renan\\source\\repos\\pedido\\gerenciadorpedidos.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60591EF6-D236-44A7-A70F-F69BFD045DFC}|GerenciadorPedidos.Infrastructure\\GerenciadorPedidos.Infrastructure.csproj|solutionrelative:gerenciadorpedidos.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A180C77E-651E-4940-8660-20787D5F180F}|Pedido\\GerenciadorPedidos.csproj|c:\\users\\renan\\source\\repos\\pedido\\pedido\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A180C77E-651E-4940-8660-20787D5F180F}|Pedido\\GerenciadorPedidos.csproj|solutionrelative:pedido\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F7AC32-20DB-47C7-8C4B-1573B4018231}|PedidoUnitTests\\PedidoUnitTests.csproj|c:\\users\\renan\\source\\repos\\pedido\\pedidounittests\\pedidosunittests\\pedidocoreunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F7AC32-20DB-47C7-8C4B-1573B4018231}|PedidoUnitTests\\PedidoUnitTests.csproj|solutionrelative:pedidounittests\\pedidosunittests\\pedidocoreunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\Pedido\\Pedido.Core\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Pedido.Core\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\Pedido\\Pedido.Core\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "Pedido.Core\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:59:26.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\Pedido\\GerenciadorPedidos.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "GerenciadorPedidos.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\Pedido\\GerenciadorPedidos.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "GerenciadorPedidos.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwCoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:53:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\Pedido\\Pedido.Core\\Repositories\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "Pedido.Core\\Repositories\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\Pedido\\Pedido.Core\\Repositories\\IPedidoRepository.cs",
+              "RelativeToolTip": "Pedido.Core\\Repositories\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:53:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\Pedido\\GerenciadorPedidos.Application\\Services\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "GerenciadorPedidos.Application\\Services\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\Pedido\\GerenciadorPedidos.Application\\Services\\IPedidoService.cs",
+              "RelativeToolTip": "GerenciadorPedidos.Application\\Services\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:38:20.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\Pedido\\Pedido\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Pedido\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\Pedido\\Pedido\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Pedido\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:48:54.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\Pedido\\GerenciadorPedidos.Application\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "GerenciadorPedidos.Application\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\Pedido\\GerenciadorPedidos.Application\\Services\\PedidoService.cs",
+              "RelativeToolTip": "GerenciadorPedidos.Application\\Services\\PedidoService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:31:42.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\Pedido\\Pedido\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Pedido\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\Pedido\\Pedido\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Pedido\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:48:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoCoreUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\renan\\source\\repos\\Pedido\\PedidoUnitTests\\PedidosUnitTests\\PedidoCoreUnitTest.cs",
+              "RelativeDocumentMoniker": "PedidoUnitTests\\PedidosUnitTests\\PedidoCoreUnitTest.cs",
+              "ToolTip": "C:\\Users\\renan\\source\\repos\\Pedido\\PedidoUnitTests\\PedidosUnitTests\\PedidoCoreUnitTest.cs",
+              "RelativeToolTip": "PedidoUnitTests\\PedidosUnitTests\\PedidoCoreUnitTest.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:53:05.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\renan\source\repos\Pedido\Pedido.Core\bin\Debug\net8.0\GerenciadorPedidos.Core.deps.json
+C:\Users\renan\source\repos\Pedido\Pedido.Core\bin\Debug\net8.0\GerenciadorPedidos.Core.dll
+C:\Users\renan\source\repos\Pedido\Pedido.Core\bin\Debug\net8.0\GerenciadorPedidos.Core.pdb
+C:\Users\renan\source\repos\Pedido\Pedido.Core\obj\Debug\net8.0\GerenciadorPedidos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\source\repos\Pedido\Pedido.Core\obj\Debug\net8.0\GerenciadorPedidos.Core.AssemblyInfoInputs.cache
+C:\Users\renan\source\repos\Pedido\Pedido.Core\obj\Debug\net8.0\GerenciadorPedidos.Core.AssemblyInfo.cs
+C:\Users\renan\source\repos\Pedido\Pedido.Core\obj\Debug\net8.0\GerenciadorPedidos.Core.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\Pedido\Pedido.Core\obj\Debug\net8.0\GerenciadorPedidos.Core.dll
+C:\Users\renan\source\repos\Pedido\Pedido.Core\obj\Debug\net8.0\refint\GerenciadorPedidos.Core.dll
+C:\Users\renan\source\repos\Pedido\Pedido.Core\obj\Debug\net8.0\GerenciadorPedidos.Core.pdb
+C:\Users\renan\source\repos\Pedido\Pedido.Core\obj\Debug\net8.0\ref\GerenciadorPedidos.Core.dll

@@ -1,0 +1,153 @@
+[
+  {
+    "ContainingType": "GerenciadorPedidos.Controllers.PedidosController",
+    "Method": "CriarPedido",
+    "RelativePath": "api/pedidos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorPedidos.Controllers.PedidosController",
+    "Method": "ListarPedidos",
+    "RelativePath": "api/pedidos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorPedidos.Controllers.PedidosController",
+    "Method": "ObterPedidoPorId",
+    "RelativePath": "api/pedidos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorPedidos.Controllers.PedidosController",
+    "Method": "FinalizarPedido",
+    "RelativePath": "api/pedidos/{id}/finalizar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorPedidos.Controllers.PedidosController",
+    "Method": "AdicionarProduto",
+    "RelativePath": "api/pedidos/{pedidoId}/adicionar-produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorPedidos.Controllers.PedidosController",
+    "Method": "RemoverProduto",
+    "RelativePath": "api/pedidos/{pedidoId}/remover-produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciadorProdutos.Controllers.ProdutoController",
+    "Method": "CriarProduto",
+    "RelativePath": "api/Produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Produto",
+        "Type": "GerenciadorProdutos.Application.DTOs.Input.ProdutoInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GerenciadorPedidos.Application.DTOs.Output.ProdutoOutputModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GerenciadorProdutos.Controllers.ProdutoController",
+    "Method": "ListarProdutos",
+    "RelativePath": "api/Produto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[GerenciadorPedidos.Application.DTOs.Output.ProdutoOutputModel, GerenciadorPedidos.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
